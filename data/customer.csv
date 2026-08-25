@@ -1,0 +1,6 @@
+customer_id,first_name,last_name,company,address,city,state,country,postal_code,phone,fax,email,support_rep_id
+1,Luis,Goncalves,Embraer - Empresa Brasileira de Aeronautica S.A.,Av. Brigadeiro Faria Lima 2170,Sao Jose dos Campos,SP,Brazil,12227-000,+55 (12) 3923-5566,,luis.goncalves@embraer.com,3
+2,Leonie,Kohler,,Theodor-Heuss-Straße 34,Stuttgart,,Germany,70174,+49 0711 2842222,,leonie.koehler@t-online.de,5
+3,Francois,Tremblay,,1498 rue Bellefeuille,Montreal,QC,Canada,H2G 2T6,+1 (514) 721-4711,,francois.tremblay@email.com,3
+4,Helen,Levy,,162 E Superior Street,Chicago,IL,USA,60611,+1 (312) 221-1177,,helen.levy@email.com,4
+5,František,Wichterlová,JetBrains s.r.o.,Klanova 9/506,Praha,,Czech Republic,14700,+420 2 4172 4555,,frantisek.wichterlova@jetbrains.com,4
